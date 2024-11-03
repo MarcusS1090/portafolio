@@ -1,0 +1,6 @@
+/bin
+appsettings.Develoment.json
+.gitignore
+\bin
+\obj
+/obj
