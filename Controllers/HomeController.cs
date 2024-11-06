@@ -13,9 +13,13 @@ namespace portafolio.Controllers
             _logger = logger;
         }
 
-        public IActionResult index()
+        public IActionResult Index()
         {
-            return View();
+            var persona = new Persona() {
+                Nombre = "Marcus Aurelio Senju",
+                Edad = 26,
+            };
+            return View(persona);
         }
 
         public IActionResult Privacy()

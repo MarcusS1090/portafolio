@@ -1,10 +1,14 @@
-﻿@{
+﻿@model Persona
+
+
+
+@{
     ViewData["Title"] = "informacion basica";
 }
 
 <div class="text-center">
     <img src="~/img/logo_size_invert.jpg" alt=" foto de logo">
-    <h1 class="display-4">Marcus Aurelio Senju</h1>
+    <h1 class="display-4">soy @Model.Nombre (@Model.Edad)</h1>
     <h4>Soy un desarrollador fullstack especializado en tecnologias .NET, javascript y Dispositivos movil</h4>
     <img id="foto" src="~/img/foto mia.jpg" alt=" foto mia">
 </div>

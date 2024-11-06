@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\portafolio.bundle.scp.css"
     },
     {
+      "Id": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\img\\foto mia.jpg",
+      "PackagePath": "staticwebassets\\img\\foto mia.jpg"
+    },
+    {
+      "Id": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\img\\logo_size_invert.jpg",
+      "PackagePath": "staticwebassets\\img\\logo_size_invert.jpg"
     },
     {
       "Id": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\js\\site.js",
