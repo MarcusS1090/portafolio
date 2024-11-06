@@ -1,5 +1,5 @@
 /bin
-appsettings.Develoment.json
-.gitignore
+/appsettings.Develoment.json
+/.gitignore
 /obj
-.fake
+/.fake
