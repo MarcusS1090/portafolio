@@ -2,3 +2,4 @@
 appsettings.Develoment.json
 .gitignore
 /obj
+.fake
