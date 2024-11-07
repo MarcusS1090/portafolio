@@ -7,7 +7,11 @@ using portafolio.Models;
 
 namespace portafolio.services
 {
-    public class RepositorioProyectos
+
+    public interface IRepositorioProyectos{
+        List<ProyectoDTO> ObtenerProyectos();
+    }
+    public class RepositorioProyectos : IRepositorioProyectos
     {
         public List<ProyectoDTO> ObtenerProyectos() {
             return new List<ProyectoDTO>() { 
