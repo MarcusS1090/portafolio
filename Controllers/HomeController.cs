@@ -7,12 +7,11 @@ namespace portafolio.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
         private readonly IRepositorioProyectos repositorioProyectos;
 
-        public HomeController(ILogger<HomeController> logger, IRepositorioProyectos repositorioProyectos)
+        public HomeController(IRepositorioProyectos repositorioProyectos
+        )
         {
-            _logger = logger;
             this.repositorioProyectos = repositorioProyectos;
         }
 
@@ -24,9 +23,10 @@ namespace portafolio.Controllers
         }
         
 
-        public IActionResult Privacy()
+        public IActionResult Proyectos() 
         {
-            return View();
+            var proyectos = repositorioProyectos.ObtenerProyectos();
+            return View(proyectos);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

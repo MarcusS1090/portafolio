@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\img\\foto mia.jpg"
     },
     {
+      "Id": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\img\\logo_size_invert.jpg",
+      "PackagePath": "staticwebassets\\img\\logo_size_invert.jpg"
+    },
+    {
       "Id": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\img\\salesforce.png",
       "PackagePath": "staticwebassets\\img\\salesforce.png"
     },

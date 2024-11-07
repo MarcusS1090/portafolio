@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gr8yJ80mbnBtzV54t5xz8a+3wxv6r71yUr55a5KmUYM=",
+  "Hash": "6nik4HHbj5m386Mb01+9MWY1zlnJ9q8m+DH6PMRu+dk=",
   "Source": "portafolio",
   "BasePath": "_content/portafolio",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\foto mia.jpg"
+    },
+    {
+      "Identity": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\img\\logo_size_invert.jpg",
+      "SourceId": "portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\",
+      "BasePath": "_content/portafolio",
+      "RelativePath": "img/logo_size_invert.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo_size_invert.jpg"
     },
     {
       "Identity": "A:\\Proyectos de programacion\\Proyectos de C#\\portafolio\\portafolio\\portafolio\\wwwroot\\img\\salesforce.png",
